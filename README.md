@@ -11,7 +11,7 @@
 | ------ | ------------------------------------------------------------------ |
 | 安装包    | `dist/EyeRestReminderSetup.exe`                                    |
 | 文件大小   | 178,688 字节（约 0.17 MB）                                              |
-| SHA256 | `62CE952FE2ED23DD54D08CA7BC408F6CACCE679EF8034C5E10A26105CDB9EEA6` |
+| SHA256 | `41CB0ED7C084A6831975DA0D5DFCB18CCE37BFBAFDD8592672B8FC8BF55689D5` |
 | 运行环境   | Windows 10 / 11（自带 Windows PowerShell 5.1 与 .NET Framework 4.x）    |
 | 第三方依赖  | 无                                                                  |
 
